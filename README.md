@@ -1,6 +1,6 @@
 # COLLEGE-ASSIGNMENT-FRONTEND(BY MANI MISHRA)
 FB
-# 🚀 MY Frontend REPO.... 
+# MY Frontend REPO.... 
 
 This repository contains frontend implementations for domain-specific capstone projects using **HTML**, **CSS**, and **JavaScript**. It showcases responsive UI design, modular scripting, and secure client-side logic.
 
