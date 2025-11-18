@@ -1,2 +1,31 @@
 # COLLEGE-ASSIGNMENT-FRONTEND
 FB
+# 🚀 Frontend Capstone Projects
+
+This repository contains frontend implementations for domain-specific capstone projects using **HTML**, **CSS**, and **JavaScript**. It showcases responsive UI design, modular scripting, and secure client-side logic.
+
+## 📁 Project Structure
+
+- `index.html` – Main HTML file  
+- `style.css` – Styling and layout  
+- `script.js` – JavaScript logic and interactivity  
+- `assets/` – Images, icons, and other static resources
+
+## 🧠 Technologies Used
+
+- **HTML5** – Semantic structure  
+- **CSS3** – Flexbox, Grid, animations  
+- **JavaScript (ES6+)** – DOM manipulation, event handling, modular functions
+
+## 🛠️ Features
+
+- Responsive design for desktop and mobile  
+- Interactive UI components  
+- Clean, maintainable codebase  
+- Domain-specific logic (e.g., Portfolio Management, AutoMob-Mechanic App)
+
+## 📦 How to Run
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
