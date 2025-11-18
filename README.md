@@ -22,13 +22,7 @@ This repository contains frontend implementations for domain-specific capstone p
 - Responsive design for desktop and mobile  
 - Interactive UI components  
 - Clean, maintainable codebase  
-- Domain-specific logic (e.g., Portfolio Management, AutoMob-Mechanic App)
-
-##  How to Run
-
-1. Clone the repository  
-   ```bash
-   khud se  kar le bhai...:(
+- Domain-specific logic (e.g., Portfolio Management)
 
 
 
